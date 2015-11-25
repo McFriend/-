@@ -9,6 +9,10 @@
 #import <UIKit/UIKit.h>
 
 @interface ViewController : UIViewController
+@property (strong, nonatomic) IBOutlet UILabel *showLabel;
+@property (strong, nonatomic) IBOutlet UITextField *inputField;
+@property (strong, nonatomic) IBOutlet UIButton *secondSearch;
+@property (strong, nonatomic) IBOutlet UILabel *historyLabel;
 
 
 @end
