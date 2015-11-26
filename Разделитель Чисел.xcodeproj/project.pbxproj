@@ -28,7 +28,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		B9944F2C1A3A1FC6001A41D3 /* Расделитель Чисел.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Расделитель Чисел.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		B9944F2C1A3A1FC6001A41D3 /* Разделитель Чисел.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Разделитель Чисел.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		B9944F301A3A1FC6001A41D3 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		B9944F311A3A1FC6001A41D3 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		B9944F331A3A1FC6001A41D3 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
@@ -39,7 +39,7 @@
 		B9944F3D1A3A1FC6001A41D3 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		B9944F3F1A3A1FC6001A41D3 /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Images.xcassets; sourceTree = "<group>"; };
 		B9944F421A3A1FC6001A41D3 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = Base; path = Base.lproj/LaunchScreen.xib; sourceTree = "<group>"; };
-		B9944F481A3A1FC7001A41D3 /* Расделитель ЧиселTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Расделитель ЧиселTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
+		B9944F481A3A1FC7001A41D3 /* Разделитель Чисел.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Разделитель Чисел.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		B9944F4D1A3A1FC7001A41D3 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		B9944F4E1A3A1FC7001A41D3 /* _________________Tests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = "_________________Tests.m"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -74,8 +74,8 @@
 		B9944F2D1A3A1FC6001A41D3 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				B9944F2C1A3A1FC6001A41D3 /* Расделитель Чисел.app */,
-				B9944F481A3A1FC7001A41D3 /* Расделитель ЧиселTests.xctest */,
+				B9944F2C1A3A1FC6001A41D3 /* Разделитель Чисел.app */,
+				B9944F481A3A1FC7001A41D3 /* Разделитель Чисел.xctest */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -125,9 +125,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		B9944F2B1A3A1FC6001A41D3 /* Расделитель Чисел */ = {
+		B9944F2B1A3A1FC6001A41D3 /* Разделитель Чисел */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = B9944F521A3A1FC7001A41D3 /* Build configuration list for PBXNativeTarget "Расделитель Чисел" */;
+			buildConfigurationList = B9944F521A3A1FC7001A41D3 /* Build configuration list for PBXNativeTarget "Разделитель Чисел" */;
 			buildPhases = (
 				B9944F281A3A1FC6001A41D3 /* Sources */,
 				B9944F291A3A1FC6001A41D3 /* Frameworks */,
@@ -137,14 +137,14 @@
 			);
 			dependencies = (
 			);
-			name = "Расделитель Чисел";
+			name = "Разделитель Чисел";
 			productName = "Расделитель Чисел";
-			productReference = B9944F2C1A3A1FC6001A41D3 /* Расделитель Чисел.app */;
+			productReference = B9944F2C1A3A1FC6001A41D3 /* Разделитель Чисел.app */;
 			productType = "com.apple.product-type.application";
 		};
-		B9944F471A3A1FC7001A41D3 /* Расделитель ЧиселTests */ = {
+		B9944F471A3A1FC7001A41D3 /* Разделитель ЧиселTests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = B9944F551A3A1FC7001A41D3 /* Build configuration list for PBXNativeTarget "Расделитель ЧиселTests" */;
+			buildConfigurationList = B9944F551A3A1FC7001A41D3 /* Build configuration list for PBXNativeTarget "Разделитель ЧиселTests" */;
 			buildPhases = (
 				B9944F441A3A1FC7001A41D3 /* Sources */,
 				B9944F451A3A1FC7001A41D3 /* Frameworks */,
@@ -155,9 +155,9 @@
 			dependencies = (
 				B9944F4A1A3A1FC7001A41D3 /* PBXTargetDependency */,
 			);
-			name = "Расделитель ЧиселTests";
+			name = "Разделитель ЧиселTests";
 			productName = "Расделитель ЧиселTests";
-			productReference = B9944F481A3A1FC7001A41D3 /* Расделитель ЧиселTests.xctest */;
+			productReference = B9944F481A3A1FC7001A41D3 /* Разделитель Чисел.xctest */;
 			productType = "com.apple.product-type.bundle.unit-test";
 		};
 /* End PBXNativeTarget section */
@@ -179,7 +179,7 @@
 					};
 				};
 			};
-			buildConfigurationList = B9944F271A3A1FC6001A41D3 /* Build configuration list for PBXProject "Расделитель Чисел" */;
+			buildConfigurationList = B9944F271A3A1FC6001A41D3 /* Build configuration list for PBXProject "Разделитель Чисел" */;
 			compatibilityVersion = "Xcode 3.2";
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
@@ -192,8 +192,8 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				B9944F2B1A3A1FC6001A41D3 /* Расделитель Чисел */,
-				B9944F471A3A1FC7001A41D3 /* Расделитель ЧиселTests */,
+				B9944F2B1A3A1FC6001A41D3 /* Разделитель Чисел */,
+				B9944F471A3A1FC7001A41D3 /* Разделитель ЧиселTests */,
 			);
 		};
 /* End PBXProject section */
@@ -243,7 +243,7 @@
 /* Begin PBXTargetDependency section */
 		B9944F4A1A3A1FC7001A41D3 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = B9944F2B1A3A1FC6001A41D3 /* Расделитель Чисел */;
+			target = B9944F2B1A3A1FC6001A41D3 /* Разделитель Чисел */;
 			targetProxy = B9944F491A3A1FC7001A41D3 /* PBXContainerItemProxy */;
 		};
 /* End PBXTargetDependency section */
@@ -352,7 +352,7 @@
 				INFOPLIST_FILE = "Расделитель Чисел/Info.plist";
 				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				PRODUCT_NAME = "Разделитель Чисел";
 			};
 			name = Debug;
 		};
@@ -364,7 +364,7 @@
 				INFOPLIST_FILE = "Расделитель Чисел/Info.plist";
 				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				PRODUCT_NAME = "Разделитель Чисел";
 			};
 			name = Release;
 		};
@@ -382,8 +382,8 @@
 				);
 				INFOPLIST_FILE = "Расделитель ЧиселTests/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
-				PRODUCT_NAME = "$(TARGET_NAME)";
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Расделитель Чисел.app/Расделитель Чисел";
+				PRODUCT_NAME = "Разделитель Чисел";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Разделитель Чисел.app/Разделитель Чисел";
 			};
 			name = Debug;
 		};
@@ -397,15 +397,15 @@
 				);
 				INFOPLIST_FILE = "Расделитель ЧиселTests/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
-				PRODUCT_NAME = "$(TARGET_NAME)";
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Расделитель Чисел.app/Расделитель Чисел";
+				PRODUCT_NAME = "Разделитель Чисел";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Разделитель Чисел.app/Разделитель Чисел";
 			};
 			name = Release;
 		};
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		B9944F271A3A1FC6001A41D3 /* Build configuration list for PBXProject "Расделитель Чисел" */ = {
+		B9944F271A3A1FC6001A41D3 /* Build configuration list for PBXProject "Разделитель Чисел" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				B9944F501A3A1FC7001A41D3 /* Debug */,
@@ -414,7 +414,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		B9944F521A3A1FC7001A41D3 /* Build configuration list for PBXNativeTarget "Расделитель Чисел" */ = {
+		B9944F521A3A1FC7001A41D3 /* Build configuration list for PBXNativeTarget "Разделитель Чисел" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				B9944F531A3A1FC7001A41D3 /* Debug */,
@@ -423,7 +423,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		B9944F551A3A1FC7001A41D3 /* Build configuration list for PBXNativeTarget "Расделитель ЧиселTests" */ = {
+		B9944F551A3A1FC7001A41D3 /* Build configuration list for PBXNativeTarget "Разделитель ЧиселTests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				B9944F561A3A1FC7001A41D3 /* Debug */,
